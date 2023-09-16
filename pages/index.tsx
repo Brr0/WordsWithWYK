@@ -183,7 +183,7 @@ export default function Home() {
         <style jsx global>
           {`
       body {
-          background: #2d3748; 
+        background: #00000000; 
        }
    `}
         </style>
