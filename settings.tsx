@@ -6,7 +6,7 @@ export const mintText = [
  ];
 
 //header image in the ui. replace with your own
-export const image = "https://xjarh43exldxgj2o7uxeg63kupfwzyelyatns33rnunrv3ndbroa.arweave.net/ukET82S6x3MnTv0uQ3tqo8ts4IvAJtlvcW0bGu2jDFw"; 
+export const image = "/logo.png"; 
 
 //website title
 export const headerText = "WORDS WITH WYK";
