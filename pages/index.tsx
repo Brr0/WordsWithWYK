@@ -191,7 +191,7 @@ export default function Home() {
           <CardHeader>
             <Flex minWidth='max-content' alignItems='center' gap='2'>
               <Box>
-                <Heading size='md'>{headerText}</Heading>
+                <Heading size='sm'>{headerText}</Heading>
               </Box>
               {loading ? (<></>) : (
                 <Flex justifyContent="flex-end" marginLeft="auto">

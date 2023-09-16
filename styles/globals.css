@@ -45,7 +45,7 @@ body {
   background-image: url("../public/background.jpg");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */ 
-  background-size: 100%; 
+  background-size: 80%; 
   background-color: black;
   overflow-x: hidden;
 }
